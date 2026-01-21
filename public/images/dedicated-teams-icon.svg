@@ -1,0 +1,22 @@
+<svg width="200" height="120" viewBox="0 0 200 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Center person icon -->
+  <circle cx="100" cy="55" r="22" stroke="#D1D5DB" stroke-width="2" fill="none"/>
+  <circle cx="100" cy="50" r="10" stroke="#D1D5DB" stroke-width="2" fill="none"/>
+  <path d="M82 75C82 65 90 57 100 57C110 57 118 65 118 75" stroke="#D1D5DB" stroke-width="2" stroke-linecap="round" fill="none"/>
+  
+  <!-- Top left node -->
+  <circle cx="70" cy="25" r="6" stroke="#D1D5DB" stroke-width="2" fill="none"/>
+  <line x1="75" y1="30" x2="88" y2="45" stroke="#D1D5DB" stroke-width="2"/>
+  
+  <!-- Top right node -->
+  <circle cx="130" cy="25" r="6" stroke="#D1D5DB" stroke-width="2" fill="none"/>
+  <line x1="125" y1="30" x2="112" y2="45" stroke="#D1D5DB" stroke-width="2"/>
+  
+  <!-- Bottom left node -->
+  <circle cx="60" cy="75" r="6" stroke="#D1D5DB" stroke-width="2" fill="none"/>
+  <line x1="65" y1="72" x2="85" y2="62" stroke="#D1D5DB" stroke-width="2"/>
+  
+  <!-- Bottom right node -->
+  <circle cx="140" cy="75" r="6" stroke="#D1D5DB" stroke-width="2" fill="none"/>
+  <line x1="135" y1="72" x2="115" y2="62" stroke="#D1D5DB" stroke-width="2"/>
+</svg>

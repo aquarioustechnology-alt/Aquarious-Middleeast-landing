@@ -1,0 +1,11 @@
+<svg width="200" height="120" viewBox="0 0 200 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Left person icon -->
+  <circle cx="60" cy="50" r="18" stroke="#D1D5DB" stroke-width="2" fill="none"/>
+  <circle cx="60" cy="46" r="8" stroke="#D1D5DB" stroke-width="2" fill="none"/>
+  <path d="M44 68C44 60 51 54 60 54C69 54 76 60 76 68" stroke="#D1D5DB" stroke-width="2" stroke-linecap="round" fill="none"/>
+  
+  <!-- Right person icon (elevated) -->
+  <circle cx="120" cy="35" r="20" stroke="#D1D5DB" stroke-width="2" fill="none"/>
+  <circle cx="120" cy="30" r="9" stroke="#D1D5DB" stroke-width="2" fill="none"/>
+  <path d="M102 55C102 46 110 39 120 39C130 39 138 46 138 55" stroke="#D1D5DB" stroke-width="2" stroke-linecap="round" fill="none"/>
+</svg>

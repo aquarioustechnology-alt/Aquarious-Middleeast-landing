@@ -1,0 +1,22 @@
+<svg width="200" height="120" viewBox="0 0 200 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Center person icon -->
+  <circle cx="100" cy="60" r="22" stroke="#D1D5DB" stroke-width="2" fill="none"/>
+  <circle cx="100" cy="55" r="10" stroke="#D1D5DB" stroke-width="2" fill="none"/>
+  <path d="M82 80C82 70 90 62 100 62C110 62 118 70 118 80" stroke="#D1D5DB" stroke-width="2" stroke-linecap="round" fill="none"/>
+  
+  <!-- Top arrow -->
+  <path d="M100 25L100 38" stroke="#D1D5DB" stroke-width="2"/>
+  <path d="M95 30L100 25L105 30" stroke="#D1D5DB" stroke-width="2" fill="none"/>
+  
+  <!-- Right arrow -->
+  <path d="M140 60L127 60" stroke="#D1D5DB" stroke-width="2"/>
+  <path d="M135 55L140 60L135 65" stroke="#D1D5DB" stroke-width="2" fill="none"/>
+  
+  <!-- Bottom arrow -->
+  <path d="M100 95L100 82" stroke="#D1D5DB" stroke-width="2"/>
+  <path d="M95 90L100 95L105 90" stroke="#D1D5DB" stroke-width="2" fill="none"/>
+  
+  <!-- Left arrow -->
+  <path d="M60 60L73 60" stroke="#D1D5DB" stroke-width="2"/>
+  <path d="M65 55L60 60L65 65" stroke="#D1D5DB" stroke-width="2" fill="none"/>
+</svg>
